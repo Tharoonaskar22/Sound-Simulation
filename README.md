@@ -32,5 +32,23 @@ Method 2
 or
 9.	Read .ply in open 3d (python)
 
+__________________________
+--------------------------
+METHODOLOGY
+
+1.Camera - To gather data
+2.Reality Capture - Data Visualization
+3.Noise Dosimetry - To collect Audio data
+4.Read .CSV with original data (X, Y, Z, R, G, B) & Sound data (S1)
+5.Python tool (Pandas Data frame) - To manipulate data
+6.Pandas - create new data sets (X, Y, Z, R, G, B) 
+7.Export - .CSV file from Pandaas
+8.Input the data into C# 
+9.C# -To create spheres with input & Unity 3D - to visualize output 
+10.Point cloud data (.PLY file)  into Open 3D to see the output
+11.Simulating data as Flow Field Direction in Unity 3D
+12.To assign the colours to generated spheres
+13.Collision of a particle to the Building 
+
 
 
