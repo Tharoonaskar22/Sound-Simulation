@@ -1,5 +1,6 @@
 # Sound-Simulation
 This project aims to explore noise reduction and create noiseless cities by leveraging computational methods and noise manipulation using point data.
+![Screenshot 2023-01-25 112307](https://user-images.githubusercontent.com/126347533/221386471-45fb9839-561c-41a4-b70a-0fce6072aa49.jpg)
 _____________________
 ---------------------
 Requirements:
@@ -17,7 +18,7 @@ Method  1
 5.	Read AudioFlowfield.cs
 6.	Input obj file into scenes and input audio file into Noise flow field source.
 7.	Particle simulation depends upon intensity of the sound and depth of the form.
-![Screenshot 2023-01-25 112307](https://user-images.githubusercontent.com/126347533/221386471-45fb9839-561c-41a4-b70a-0fce6072aa49.jpg)
+
 
 _____________________
 ---------------------
