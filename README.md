@@ -2,7 +2,7 @@
 This project aims to explore noise reduction and create noiseless cities by leveraging computational methods and noise manipulation using point data.
 _____________________
 ---------------------
-Requirements
+Requirements:
 Unity 3D 
 Microsoft visuals 2022
 Python 3.11.0
@@ -34,7 +34,7 @@ or
 
 __________________________
 --------------------------
-METHODOLOGY
+METHODOLOGY:
 
 1.Camera - To gather data
 2.Reality Capture - Data Visualization
