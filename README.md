@@ -56,4 +56,5 @@ METHODOLOGY:
 13.Collision of a particle to the Building 
 
 
+https://user-images.githubusercontent.com/126347533/221386780-54316b32-3173-498e-9ddc-3d4f4491cc2d.mp4
 
