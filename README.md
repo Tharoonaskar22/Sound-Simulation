@@ -34,6 +34,8 @@ Method 2
 8.	Visualize the output in the form of point data (spheres) 
 or
 9.	Read .ply in open 3d (python)
+![1](https://user-images.githubusercontent.com/126347533/221386583-691e6e34-c6c4-42c5-acc1-b70bdb1c2eaa.jpg)
+![3](https://user-images.githubusercontent.com/126347533/221386586-24d2466f-089b-4e5d-a44e-e46f977a03e6.jpg)
 
 __________________________
 --------------------------
